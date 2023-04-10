@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "64324bfe0d4b670f2b52450b"
+  },
+  "nomeClienteContrato": {
+    "nome": "João da Silva",
+    "cpf": "123.456.789-00",
+    "score": "800"
+  },
+  "tipoCartaoContratado": {
+    "limite": "5000",
+    "scoreCartao": "800"
+  },
+  "_class": "com.torres.antonio.santander.entities.Contrato"
+},{
+  "_id": {
+    "$oid": "64324fc7e0985a0e4e0284f5"
+  },
+  "nomeClienteContrato": {
+    "nome": "João da Silva",
+    "cpf": "123.456.789-00",
+    "score": 300
+  },
+  "tipoCartaoContratado": {
+    "limite": "5000",
+    "scoreCartao": "800"
+  },
+  "_class": "com.torres.antonio.santander.entities.Contrato"
+}]

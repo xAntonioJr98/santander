@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64324246d073100da70d3077"
+  },
+  "tipo": "BRONZE",
+  "limite": "1000",
+  "scoreCartao": 300,
+  "_class": "com.torres.antonio.santander.entities.Cartao"
+},{
+  "_id": {
+    "$oid": "643242a490b20241dada5f30"
+  },
+  "tipo": "PRATA",
+  "limite": "3000",
+  "scoreCartao": 500,
+  "_class": "com.torres.antonio.santander.entities.Cartao"
+},{
+  "_id": {
+    "$oid": "643242b890b20241dada5f31"
+  },
+  "tipo": "OURO",
+  "limite": "5000",
+  "scoreCartao": 800,
+  "_class": "com.torres.antonio.santander.entities.Cartao"
+}]

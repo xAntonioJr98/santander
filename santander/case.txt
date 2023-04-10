@@ -1,0 +1,15 @@
+Obejetivo: URL Git de algum projeto que curtiu de mais =)
+ 
+
+Case: Dado um cenário bancário de contratação do produto “cartão de crédito”, no qual existe um fluxo de negócio para acontecer está contratação.
+O Cliente loga no app do banco, faz a simulação e logo após, realiza a contratação do produto,
+ finalizando com o processo de “Formalização da contratação” por meio de uma peça muito importante chamada “Formalização digital”.
+Como você imagina que poderia ser esse fluxo de negócio, levando em consideração as camadas de infraestrutura de um banco seguindo as etapas abaixo?
+ 
+* 3 etapas (Endpoints)
+1. Dados do cliente e Produto (Crud)
+2. Simulação – Retorna a simulação do calculo de 3 produtos Por ex. Cartão Bronze, Prata e Ouro
+3. Formalização de contratação do produto – Retorna sucesso na contratação
+ 
+Dica de ouro: Valorizamos o modelo de maturidade do Richardson
+ 

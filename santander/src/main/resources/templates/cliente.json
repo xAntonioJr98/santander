@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6432435f90b20241dada5f32"
+  },
+  "nome": "João da Silva",
+  "cpf": "111.111.111.11",
+  "score": 450,
+  "_class": "com.torres.antonio.santander.entities.Cliente"
+},{
+  "_id": {
+    "$oid": "6432438990b20241dada5f33"
+  },
+  "nome": "Antonio Carlos Torres Junior",
+  "cpf": "222.222.222.22",
+  "score": 900,
+  "_class": "com.torres.antonio.santander.entities.Cliente"
+},{
+  "_id": {
+    "$oid": "643243c190b20241dada5f34"
+  },
+  "nome": "Marina da silva",
+  "cpf": "333.333.333.333",
+  "score": 600,
+  "_class": "com.torres.antonio.santander.entities.Cliente"
+}]

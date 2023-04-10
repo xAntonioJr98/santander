@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      uri: 'mongodb://localhost:27017/santander_cartoes'
+swagger:
+  contact:
+    name: Antonio Torres
+    email: actorresjunior@gmail.com
+  app: santander_cartoes
+  verion: 0.0.1
+  description: API de contrato de cartões
+base:
+  package: br.com.torres.antonio.santander
